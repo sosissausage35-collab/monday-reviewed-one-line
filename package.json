@@ -1,0 +1,1 @@
+{"description":"Writes the funniest one-line review of my own Monday to /output/entry.txt","license":"MIT","main":"main.ts","name":"monday-reviewed-in-one-line","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
